@@ -5,5 +5,24 @@ title: Career
 
 <br/>
 
+# A Major Project
 
-# 본인의 코딩 경혐을 적어주세요
+* ## 64 - Puyo Puyo
+---
+`Computer programming` term project<br/>
+`C` based puzzle game.
+* ## Web Ex
+---
+`HCI` hw3. <br/>
+Exercise helper designing 
+with `HTML`, `JS`, `Xd`
+
+
+* ## 32bit RISC-V pipelined CPU
+---
+Implimentation of pipelining with `Verilog`
+
+
+
+
+
