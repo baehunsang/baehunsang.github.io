@@ -1,6 +1,6 @@
 ---
 layout: post
-subtitle: 첫 포스팅
+subtitle: Test post
 comment: true
 ---
 
