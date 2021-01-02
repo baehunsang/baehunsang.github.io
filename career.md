@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Career
-cover-img: /assets/img/cover.jpg
 ---
 
 <br/>
