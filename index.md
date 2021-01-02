@@ -14,7 +14,8 @@ cover-img: /assets/img/cover.jpg
 <br/> 
 
 ## Contact
-|E-mail|
-|--|
-|hoonsang99@gmail.com|
-|hoonang99@korea.ac.kr|
+```
+E-mail
+hoonsang99@gmail.com
+hoonang99@korea.ac.kr
+```
