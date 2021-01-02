@@ -15,7 +15,7 @@ navbar-links:
   Career: "career"
   Blog: 
     - Intro: "blog"
-    - RISC-V: "RISCV"
+    - RISC-V: "cose222"
   Project: "project"
   GitHub: "https://github.com/baehunsang?tab=repositories"
 
