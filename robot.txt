@@ -1,5 +1,7 @@
 User-agent: Googlebot
 User-agent: NaverBot
 Allow: /
+User-agent: BadBot
+Disallow: /
 
-Sitemap: http://dymaxionkim.github.io/beautiful-jekyll/sitemap.xml
+Sitemap: http://baehunsang.github.io/sitemap.xml
