@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RISC-V CPU
-subtitle: Pipelinng 구현
+subtitle: Pipeline 구현
 gh-repo: baehunsang/COSE222
 gh-badge: [star, fork, follow]
 # cover-img: /assets/img/path.jpg
